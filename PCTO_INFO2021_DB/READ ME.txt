@@ -1,0 +1,5 @@
+
+Per avviare il programma avviarlo attraverso la soluzione "LostDungeonsDB.sln".
+
+Per il funzionamento del programma è necessario che la stringa di connessione al DB contenga la
+condizione "MultipleActiveResultSets=True;".

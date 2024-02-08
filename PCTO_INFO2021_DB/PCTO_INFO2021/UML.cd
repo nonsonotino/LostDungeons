@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="PCTO_INFO2021.Ambiente">
+    <Position X="0.5" Y="0.5" Width="7.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAQECAAAAAAACAAAABAAAABAAAQAAAA=</HashCode>
+      <FileName>Classi\ClassiAmbiente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PCTO_INFO2021.Passaggio">
+    <Position X="8.5" Y="0.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Classi\ClassiAmbiente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PCTO_INFO2021.Entità">
+    <Position X="4.75" Y="4" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Classi\ClassiEntità.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PCTO_INFO2021.EntitàOggetto">
+    <Position X="10" Y="4.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classi\ClassiEntità.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PCTO_INFO2021.EntitàConsumabile">
+    <Position X="13" Y="2.25" Width="5.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Classi\ClassiEntità.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PCTO_INFO2021.Cura">
+    <Position X="19.5" Y="3.75" Width="5.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classi\ClassiEntità.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PCTO_INFO2021.Danno">
+    <Position X="19.5" Y="1.25" Width="5.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classi\ClassiEntità.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PCTO_INFO2021.EntitàEquipaggiabile">
+    <Position X="14" Y="7" Width="5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAACEAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Classi\ClassiEntità.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PCTO_INFO2021.Arma">
+    <Position X="12.5" Y="10" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classi\ClassiEntità.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PCTO_INFO2021.Armatura">
+    <Position X="18.25" Y="10" Width="5.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classi\ClassiEntità.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PCTO_INFO2021.Player">
+    <Position X="0.5" Y="7.5" Width="5.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAQAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Classi\ClassiEntità.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PCTO_INFO2021.NPC">
+    <Position X="7" Y="7.5" Width="5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAQAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Classi\ClassiEntità.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
